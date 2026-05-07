@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+joblib
+numpy
+pygame
+edge-tts
+customtkinter
+scikit-learn
